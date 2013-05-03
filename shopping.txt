@@ -5,3 +5,5 @@ bread
 cheese
 cereal
 chocolate
+sweets
+magazines

@@ -3,3 +3,5 @@ milk
 butter
 bread
 cheese
+cereal
+chocolate

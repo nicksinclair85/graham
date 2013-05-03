@@ -1,5 +1,4 @@
-clean car
-insure car
 MOT car
+insure car
 tax car
-
+clean car

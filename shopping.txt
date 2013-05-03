@@ -1,9 +1,9 @@
-bread
-butter
-cereal
-cheese
-chocolate
-magazines
 milk
+butter
+bread
 more bread
+cheese
+cereal
+chocolate
 sweets
+magazines

@@ -1,9 +1,6 @@
-milk
-butter
-bread
-more bread
-cheese
-cereal
-chocolate
-sweets
-magazines
+du lait
+du beurre
+du pain
+du fromage
+chocolat
+bonbons
